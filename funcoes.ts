@@ -12,8 +12,8 @@ console.log(resultado);
 
 const nome: string = "Danilo Sampaio";
 
-function saldacao(): string {
+function saudacao(): string {
     return "Olá " + nome;
 }
 
-console.log(saldacao());
+console.log(saudacao());
